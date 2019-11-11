@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@hint/utils": "^4.1.1",
-    "axe-core": "^3.3.2"
+    "axe-core": "^3.4.0"
   },
   "description": "hint that that checks using axe for accessibility related best practices",
   "devDependencies": {
