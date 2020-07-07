@@ -23,7 +23,7 @@
     "jsonc-parser": "^2.2.0",
     "lodash": "^4.17.15",
     "mdn-browser-compat-data": "^0.0.98",
-    "npm-registry-fetch": "^4.0.0",
+    "npm-registry-fetch": "^4.0.5",
     "parse5": "^5.1.0",
     "parse5-htmlparser2-tree-adapter": "^5.1.0",
     "postcss": "^7.0.17",
