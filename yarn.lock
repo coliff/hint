@@ -471,11 +471,12 @@
     is-plain-object "^3.0.0"
     universal-user-agent "^4.0.0"
 
-"@octokit/plugin-throttling@^2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@octokit/plugin-throttling/-/plugin-throttling-2.6.0.tgz#0b3107c2267e3a8cf6f63925847ec3ebe9e0aa8d"
-  integrity sha512-E0xQrcD36sVEeBhut6j9nWX38vm/1LKMRSUqjvJ/mqGLXfHr4jYMsrR3I/nT2QC0eJL1/SKMt7zxOt7pZiFhDA==
+"@octokit/plugin-throttling@^3.3.0":
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/@octokit/plugin-throttling/-/plugin-throttling-3.3.0.tgz#11ee58d986255888c112c63969ca79e921d57850"
+  integrity sha512-0hMtpqTAwAvo3XkNoaPQFqX2+csfbuR0bYpruHq3anrBrhQFPt9Gn01RVqqoDla/qBYmIIY2MRirxlaLO21Apg==
   dependencies:
+    "@octokit/types" "^5.0.0"
     bottleneck "^2.15.3"
 
 "@octokit/request-error@^1.0.1", "@octokit/request-error@^1.0.2":
@@ -522,6 +523,13 @@
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@octokit/types/-/types-2.0.1.tgz#0caf0364e010296265621593ac9a37f40ef75dad"
   integrity sha512-YDYgV6nCzdGdOm7wy43Ce8SQ3M5DMKegB8E5sTB/1xrxOdo2yS/KgUgML2N2ZGD621mkbdrAglwTyA4NDOlFFA==
+  dependencies:
+    "@types/node" ">= 8"
+
+"@octokit/types@^5.0.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@octokit/types/-/types-5.2.0.tgz#d075dc23bf293f540739250b6879e2c1be2fc20c"
+  integrity sha512-XjOk9y4m8xTLIKPe1NFxNWBdzA2/z3PFFA/bwf4EoH6oS8hM0Y46mEa4Cb+KCyj/tFDznJFahzQ0Aj3o1FYq4A==
   dependencies:
     "@types/node" ">= 8"
 
