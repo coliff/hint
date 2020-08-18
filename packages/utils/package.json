@@ -21,7 +21,7 @@
     "is-svg": "^4.2.0",
     "is-wsl": "^2.1.0",
     "jsonc-parser": "^2.2.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "mdn-browser-compat-data": "^0.0.98",
     "npm-registry-fetch": "^4.0.5",
     "parse5": "^5.1.0",

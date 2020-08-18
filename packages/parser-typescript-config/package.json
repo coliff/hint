@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@hint/utils": "^4.1.1",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.20"
   },
   "description": "webhint parser needed to analyze TypeScript config files",
   "devDependencies": {
