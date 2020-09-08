@@ -11,7 +11,7 @@
     "data-urls": "^1.1.0",
     "iconv-lite": "^0.5.0",
     "iltorb": "^2.4.3",
-    "request": "^2.88.0"
+    "request": "^2.88.2"
   },
   "description": "hint tools for connectors",
   "devDependencies": {
