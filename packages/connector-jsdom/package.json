@@ -10,7 +10,7 @@
     "@hint/utils": "^4.1.1",
     "@hint/utils-connector-tools": "^4.0.9",
     "jsdom": "^15.2.0",
-    "mutationobserver-shim": "^0.3.3",
+    "mutationobserver-shim": "^0.3.7",
     "whatwg-fetch": "^3.0.0"
   },
   "description": "hint connector for JSDOM",
