@@ -82,7 +82,7 @@
     "raw-loader": "^3.1.0",
     "react": "^16.10.2",
     "react-dom": "^16.9.0",
-    "react-syntax-highlighter": "^11.0.2",
+    "react-syntax-highlighter": "^15.2.1",
     "rimraf": "^3.0.0",
     "semver": "^7.3.2",
     "sinon": "^9.0.3",
