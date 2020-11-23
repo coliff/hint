@@ -827,10 +827,10 @@
   resolved "https://registry.yarnpkg.com/@types/highlight.js/-/highlight.js-9.12.3.tgz#b672cfaac25cbbc634a0fd92c515f66faa18dbca"
   integrity sha512-pGF/zvYOACZ/gLGWdQH8zSwteQS1epp68yRcVLJMgUck/MjEn/FBYmPub9pXT8C1e4a8YZfHo1CKyV8q1vKUnQ==
 
-"@types/iltorb@^2.3.0":
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@types/iltorb/-/iltorb-2.3.0.tgz#22a10a64ab48f059289ad2ec9005f2ff47656cf3"
-  integrity sha512-Sa9udsJtXhLt277FDLp9kWGdfl7YGNhg5WFzBS00YEgLbQYYIAXM7zFEdaqfJ7pqQsvGzaDWpu/0Z27l95fqww==
+"@types/iltorb@^2.3.2":
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@types/iltorb/-/iltorb-2.3.2.tgz#572964c1600e6f5ac403499181beecad904e95fe"
+  integrity sha512-HkXkMSNrxazJQraT5T/AB+a1HgG+B4ur6ITUS6eeDmaEwNLHCvgm95rgbPjoaxyBsrkiuOgIoy1dw3dDsatBZA==
   dependencies:
     "@types/node" "*"
 
