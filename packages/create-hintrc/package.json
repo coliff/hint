@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "browserslist": "^4.7.0",
-    "encoding": "^0.1.12"
+    "encoding": "^0.1.13"
   },
   "description": "webhint's configuration file initializer package",
   "devDependencies": {
