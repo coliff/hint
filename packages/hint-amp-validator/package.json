@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@hint/utils": "^4.1.1",
-    "amphtml-validator": "^1.0.32"
+    "amphtml-validator": "^1.0.34"
   },
   "description": "hint that that validates AMP HTML pages using the AMP Validator",
   "devDependencies": {
