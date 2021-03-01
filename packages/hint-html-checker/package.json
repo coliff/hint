@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@hint/utils": "^4.1.1",
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.21"
   },
   "description": "hint that that validates HTML pages using the Nu HTML checker",
   "devDependencies": {
