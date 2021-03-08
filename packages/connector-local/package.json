@@ -9,7 +9,7 @@
   "dependencies": {
     "@hint/utils": "^4.1.1",
     "chokidar": "^3.4.2",
-    "globby": "^11.0.1",
+    "globby": "^11.0.2",
     "jsdom": "^16.4.0"
   },
   "description": "hint local connector",
