@@ -1,0 +1,27 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: weekly
+    time: "20:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: angular
+    versions:
+    - ">= 0"
+  - dependency-name: jquery
+    versions:
+    - ">= 0"
+  - dependency-name: mime-db
+    versions:
+    - "^1.35.0"
+  - dependency-name: proxyquire
+    versions:
+    - "^2.0.0"
+  - dependency-name: "@types/node"
+    versions:
+    - "^10.12.18"
+  - dependency-name: "@types/jsdom"
+    versions:
+    - 16.2.6
