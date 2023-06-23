@@ -84,7 +84,7 @@
     "react-dom": "^16.9.0",
     "react-syntax-highlighter": "^15.2.1",
     "rimraf": "^3.0.0",
-    "semver": "^7.3.2",
+    "semver": "^7.5.2",
     "sinon": "^9.2.2",
     "style-loader": "^2.0.0",
     "svg-url-loader": "^7.1.1",

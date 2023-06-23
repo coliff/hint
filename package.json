@@ -30,7 +30,7 @@
     "p-retry": "^4.1.0",
     "rimraf": "^3.0.0",
     "rxjs": "^6.6.3",
-    "semver": "^7.3.2",
+    "semver": "^7.5.2",
     "shelljs": "^0.8.4",
     "tsort": "^0.0.1",
     "typescript": "^4.1.3",
