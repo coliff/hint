@@ -161,6 +161,7 @@ For more information about the using `webhint` within your browser, go to
 * [Parsers][UserGuideConceptsParsers]
 
 <!-- links -->
+https://webhint.io/extension-browser/
 
 [UserGuideConceptsConfigurations]: ./concepts/configurations.md "Configurations | webhint"
 [UserGuideConceptsConnectors]: ./concepts/connectors.md "Connectors | webhint"
@@ -168,7 +169,7 @@ For more information about the using `webhint` within your browser, go to
 [UserGuideConceptsHints]: ./concepts/hints.md "Hints | webhint"
 [UserGuideConceptsParsers]: ./concepts/parsers.md "Parsers | webhint"
 [UserGuideConfiguringWebhintSummary]: ./configuring-webhint/summary.md  "Configuring Webhint | webhint"
-[UserGuideExtensionsBrowser]: ../../../extension-browser/README.md "Webhint Browser Extension EditSignal Issue | webhint"
+[UserGuideExtensionsBrowser]: ./docs/user-guide/extensions/extension-browser/README.md "Webhint Browser Extension EditSignal Issue | webhint"
 [UserGuideConfigurationsDevelopment]: ./configurations/configuration-development.md "Webhint Development Configuration | webhint"
 [UserGuideConfigurationsWebRecommended]: ./configurations/configuration-web-recommended.md "Webhint Recommended Web Configuration | webhint"
 [UserGuideExtensionsVscodeWebhint]: ../../../extension-vscode/README.md "Webhint VS Code Extension | webhint"
